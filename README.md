@@ -46,8 +46,8 @@ Pull requests are welcome! If you find bugs or want to improve test coverage, fe
 
 ## 👤 Author
 
-**Jerome Kalaw**
-📇 [LinkedIn](www.linkedin.com/in/kalawjerome)
+**Louise Collado**
+📇 [LinkedIn](www.linkedin.com/in/louise-jay-collado)
 
 ---
 
